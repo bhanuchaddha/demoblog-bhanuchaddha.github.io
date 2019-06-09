@@ -3,48 +3,48 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://bhanuchaddha.github.io/first-blog/</loc>
+    <loc>https://bhanuchaddha.github.io/demoblog-bhanuchaddha.github.io/first-blog/</loc>
     <lastmod>2019-06-06T22:11:42+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bhanuchaddha.github.io/</loc>
-    <lastmod>2019-06-06T22:11:42+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bhanuchaddha.github.io/categories/</loc>
+    <loc>https://bhanuchaddha.github.io/demoblog-bhanuchaddha.github.io/</loc>
     <lastmod>2019-06-06T22:11:42+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://bhanuchaddha.github.io/post/</loc>
+    <loc>https://bhanuchaddha.github.io/demoblog-bhanuchaddha.github.io/categories/</loc>
     <lastmod>2019-06-06T22:11:42+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://bhanuchaddha.github.io/tags/</loc>
+    <loc>https://bhanuchaddha.github.io/demoblog-bhanuchaddha.github.io/post/</loc>
     <lastmod>2019-06-06T22:11:42+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://bhanuchaddha.github.io/tags/firstblog/</loc>
+    <loc>https://bhanuchaddha.github.io/demoblog-bhanuchaddha.github.io/tags/</loc>
     <lastmod>2019-06-06T22:11:42+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://bhanuchaddha.github.io/categories/tutorial/</loc>
+    <loc>https://bhanuchaddha.github.io/demoblog-bhanuchaddha.github.io/tags/firstblog/</loc>
     <lastmod>2019-06-06T22:11:42+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://bhanuchaddha.github.io/tags/tutorial/</loc>
+    <loc>https://bhanuchaddha.github.io/demoblog-bhanuchaddha.github.io/categories/tutorial/</loc>
+    <lastmod>2019-06-06T22:11:42+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bhanuchaddha.github.io/demoblog-bhanuchaddha.github.io/tags/tutorial/</loc>
     <lastmod>2019-06-06T22:11:42+02:00</lastmod>
     <priority>0</priority>
   </url>
